@@ -1,0 +1,6 @@
+**/.terraform/*
+**/.terraform.lock.hcl
+**/terraform.tfstate
+**/terraform.tfstate.backup
+*.txt
+eks-vpc-network.code-workspace
