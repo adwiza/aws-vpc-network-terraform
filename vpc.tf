@@ -6,3 +6,5 @@ resource "aws_vpc" "eks_vpc" {
     "Name" = "${var.environment}-vpc"
   }
 }
+
+# tag v1.1.0
